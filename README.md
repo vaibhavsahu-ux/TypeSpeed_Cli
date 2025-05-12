@@ -12,14 +12,11 @@ A simple command-line typing speed tester written in Python.
 
 1. Make sure Python 3 is installed.
 2. Clone/download this repo.
-3. Run the script:
-
-```bash
-python typing_test.py
+3. Run the main.py file
 
 ## Future improvements
 
 1. Larger variety of sentences 
 2. Different difficulty levels
 3. Saves past results to a file for statistics
-4. Highlight correct/incorrect characters
+4. Highlight correct/incorrect charactes
